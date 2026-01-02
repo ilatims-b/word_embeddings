@@ -51,3 +51,23 @@ Suggested to run these on colab/ kaggle on gpu as loading the models could be he
 ```gender-bias-gemma2-2b-it.ipynb```
 
 For encoder, please do restart the session after pip uninstall numpy , installing the correct version to avoid dependency issues with transformer-lens HookedEncoder
+
+
+For set up
+
+### Option 1: Pip (Recommended for most users)
+```bash
+git clone https://github.com/ilatims-b/monolingual_embedding_alignment.git
+cd monolingual_embedding_alignment
+python -m venv alignvec
+source alignvec/bin/activate  # On Windows: alignvec\Scripts\activate
+pip install -r requirements.txt
+```
+### Option 2:Conda (Full reproducibility, includes MPS/CUDA support)
+```bash
+conda env create -f environment.yml
+conda activate alignvec
+```
+
+
+
