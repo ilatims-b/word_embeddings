@@ -1,0 +1,4 @@
+kind,name,effect_size,p_value,n_X,n_Y,n_A,n_B,pearson_r,spearman_r,n_items
+WEAT,flowers_insects_pleasant_unpleasant,1.65796090504075,1.999960000799984e-05,25.0,25.0,25.0,25.0,,,
+WEAT,male_female_career_family,1.7535372569833734,7.999840003199936e-05,8.0,8.0,8.0,8.0,,,
+WEFAT,BLS_pct_women_vs_gender_assoc,,,,,,,-0.5334556444793087,-0.5286554360529916,383.0

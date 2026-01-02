@@ -1,0 +1,8 @@
+kind,name,effect_size,p_value,n_X,n_Y,n_A,n_B,pearson_r,spearman_r,n_items
+WEAT,europeanamerican_africanamerican_pleasant_unpleasant,-0.0941205236701849,0.6732265354692906,48.0,43.0,25.0,25.0,,,
+WEAT,flowers_insects_pleasant_unpleasant,1.6472862588170254,1.999960000799984e-05,25.0,25.0,25.0,25.0,,,
+WEAT,male_female_career_family,1.7527490916751305,7.999840003199936e-05,8.0,8.0,8.0,8.0,,,
+WEAT,math_arts_male_female,0.7973829111990519,0.05731885362292754,8.0,8.0,8.0,8.0,,,
+WEAT,musicalinstruments_weapons_pleasant_unpleasant,1.5170035106976179,1.999960000799984e-05,25.0,25.0,25.0,25.0,,,
+WEAT,science_arts_male_female,0.4427898316024209,0.19185616287674245,8.0,8.0,8.0,8.0,,,
+WEFAT,BLS_pct_women_vs_gender_assoc,,,,,,,-0.41252206595288254,-0.39072039072039055,27.0
